@@ -15,4 +15,5 @@ SPAをreactのみで書くサンプル。
 という３ページをSPAにしている。  
 
 ![image.png](https://cloud.githubusercontent.com/assets/22278305/21679018/f6a2245c-d384-11e6-9280-1ee9ef3e9d80.png)  
+  
 ↑SectionAの３つのComponent  
