@@ -20,6 +20,6 @@ SPAをreactのみで書くサンプル。
 
 
 ○ first commit (画像の状態)  
-|  
-|  
+｜  
+｜  
 ○
