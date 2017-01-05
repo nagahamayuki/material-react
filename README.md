@@ -7,6 +7,8 @@ SPAをreactのみで書くサンプル。
 　｜ーー IndexComponent  
 　｜  
 　｜ーー SectionA  
+　｜　　　｜    
+　｜　　　｜ーー ３つのComponent  
 　｜  
 　｜ーー SectionB  
 
